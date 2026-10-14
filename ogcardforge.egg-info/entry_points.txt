@@ -1,0 +1,2 @@
+[console_scripts]
+ogcardforge = ogcardforge:main
